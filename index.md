@@ -189,7 +189,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
       <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/04-built-in/">Built-in Functions and Help</a></td> </tr>
       <tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/06-libraries/">Libraries</a></td> </tr>
-      <tr> <td>16:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/07-reading-tabular/">Reading Tabular into DataFrames</a></td></tr>
+      <tr> <td>16:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/07-reading-tabular/">Reading Tabular Data into DataFrames</a></td></tr>
       <tr> <td>16:30</td>  <td>Wrap-up</td> </tr>
     </table>
   </div>
