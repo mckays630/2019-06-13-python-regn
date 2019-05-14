@@ -256,6 +256,8 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
       <li><a href="{{site.swc_pages}}/python-novice-gapminder/reference">Reference...</a></li>
     </ul>
   </div>
+</div>
+
 <hr/>
 
 {% comment %}
