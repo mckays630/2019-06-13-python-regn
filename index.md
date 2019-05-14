@@ -103,7 +103,6 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 <p id="when">
   <strong>When:</strong>
   {{page.humandate}}.
-  {% include workshop_calendar.html %}
 </p>
 {% endif %}
 
@@ -243,6 +242,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
       <li>Looping over files</li>
       <li>Creating and running shell scripts</li>
       <li>Finding things</li>
+      <li><a href="{{site.swc_pages}}/shell-novice/reference">Reference...</a></li>
     </ul>
   </div>
   <div class="col-md-6">
@@ -253,6 +253,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
       <li>Reading, transforming and plotting data</li>
       <li>Creating and using functions</li>
       <li>Loops and conditionals</li>
+      <li><a href="{{site.swc_pages}}/python-novice-gapminder/reference">Reference...</a></li>
     </ul>
   </div>
 <hr/>
