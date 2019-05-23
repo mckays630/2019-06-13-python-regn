@@ -176,16 +176,16 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
   <div class="col-md-6">
     <h3>Thursday, June 13</h3>
     <table class="table table-striped">
-      <tr> <td>Time</td><td>Subject</td><td>Instructor</td></tr>
+      <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
       <tr> <td>9:00</td> <td>Workshop overview</td><td></td></tr>
       <tr> <td>9:10</td> <td><a href="{{site.swc_pages}}/shell-novice/01-intro/">Introduction to the unix shell</a></td><td> </td></tr>
       <tr> <td>9:15</td> <td><a href="{{site.swc_pages}}/shell-novice/02-filedir">Navifating files and directories</a></td><td> </td></tr>
       <tr> <td>9:50</td> <td><a href="{{site.swc_pages}}/shell-novice/03-create">Working with files and directories</a></td><td> </td></tr>
-      <tr> <td>10:30</td> <td>Coffee</td> <td></td></tr>
+      <tr> <td>10:30</td> <td>Coffee</td><td></td></tr>
       <tr> <td>10:45</td> <td><a href="{{site.swc_pages}}/shell-novice/04-pipefilter">Pipes and filters</a></td><td> </td></tr>
       <tr> <td>11:05</td> <td><a href="{{site.swc_pages}}/shell-novice/05-loop">Loops</a></td><td> </td></tr>
       <tr> <td>11:45</td> <td>Best practices for programming at Regeneron</td><td> </td></tr>
-      <tr> <td>12:00</td> <td>Lunch</td><td> </td><</tr>
+      <tr> <td>12:00</td> <td>Lunch</td><td></td><</tr>
       <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Python Overview</a></td> </tr>
       <tr> <td>13:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> </tr>
       <tr> <td>13:35</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/02-variables/">Variables and Assignment</a></td> </tr>
@@ -200,6 +200,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
   <div class="col-md-6">
     <h3>Friday, June 14</h3>
     <table class="table table-striped">
+      <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
       <tr> <td>Time</td><td>Subject</td><td>Instructor</td></tr>
       <tr> <td>9:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/08-data-frames/">Pandas DataFrames</a></td> </tr>
       <tr> <td>9:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/09-plotting/">Plotting</a></td> </tr>
