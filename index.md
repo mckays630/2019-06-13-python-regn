@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-13
 enddate: 2019-06-14
 instructor: ["Sheldon McKay", "Pariksheet Nanda"]
-helper: ["Calvin Chen","Tiffany Tu","TBA"]
+helper: ["Calvin Chen","Jonathan Kin Wei Leung","TBA"]
 email: ["sheldon.mckay@regeneron.com"]
 collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 ---
