@@ -186,7 +186,6 @@ The lessons used in the workshop were developed by <a href="http://software-carp
       <tr> <td>10:30</td> <td>Coffee</td><td></td></tr>
       <tr> <td>10:45</td> <td><a href="{{site.swc_pages}}/shell-novice/04-pipefilter">Pipes and filters</a></td><td>Sheldon McKay</td></tr>
       <tr> <td>11:05</td> <td><a href="{{site.swc_pages}}/shell-novice/05-loop">Loops</a></td><td>Sheldon McKay</td></tr>
-      <tr> <td>11:45</td> <td>Best practices for programming at Regeneron</td><td>Sheldon McKay</td></tr>
       <tr> <td>12:00</td> <td>Lunch</td><td></td></tr>
       <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Python Overview</a></td> <td>Pariksheet Nanda</td></tr>
       <tr> <td>13:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> <td>Pariksheet Nanda</td></tr>
