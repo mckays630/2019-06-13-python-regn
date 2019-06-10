@@ -168,9 +168,11 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 <hr/>
 
 
-<!--<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>-->
+<h2>Lessons</h2>
+The lessons used in the workshop were developed by <a href="http://software-carpentry.org/">Software Carpentry<a/> under a <ahref="https://creativecommons.org/licenses/by/4.0/">Creative Commons</a> license.
 
-<h2 id="schedule">Schedule<br>Room 34-250</h2>
+<h2 id="schedule">Schedule</h2>
+<h3><Room 34-250</h3>
 
 <div class="row">
   <div class="col-md-6">
