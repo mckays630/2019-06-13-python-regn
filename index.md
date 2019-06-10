@@ -207,12 +207,12 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
       <tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td><td>Pariksheet Nanda</td></tr>
       <tr> <td>11:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/12-for-loops/">For Loops</a></td><td>Pariksheet Nanda</td></tr>
       <tr> <td>12:00</td>  <td>Lunch</td><td> </td></tr>
-      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td><td></td></tr>
-      <tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td><td></td></tr>
+      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td><td>Sheldon McKay</td></tr>
+      <tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td><td>Sheldon McKay</td></tr>
       <tr> <td>14:30</td>  <td>Coffee</td><td></td></tr>
-      <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a> </td> <td> </td></tr>
-      <tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a> </td> <td> </td></tr>
-      <tr> <td>15:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style</a> </td> <td> </td></tr>
+      <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a> </td> <td>Sheldon McKay</td></tr>
+      <tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a> </td> <td>Sheldon McKay</td></tr>
+      <tr> <td>15:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style</a> </td> <td>Sheldon McKay</td></tr>
       <tr> <td>16:15</td>  <td>Wrap-up</td> <td></td></tr>
       <tr> <td>16:30</td>  <td>End</td><td></td> </tr>
     </table>
