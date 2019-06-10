@@ -174,7 +174,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Thursday, June 13</h3>
+    <h3>Thursday, June 13, Room 34-250</h3>
     <table class="table table-striped">
       <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
       <tr> <td>9:00</td> <td>Workshop overview</td><td></td></tr>
@@ -198,7 +198,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Friday, June 14</h3>
+    <h3>Friday, June 14, Room 34-250</h3>
     <table class="table table-striped">
       <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
       <tr> <td>9:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/08-data-frames/">Pandas DataFrames</a></td><td>Pariksheet Nanda</td></tr>
