@@ -169,7 +169,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 
 
 <h2>Lessons</h2>
-The lessons used in the workshop were developed by <a href="http://software-carpentry.org/">Software Carpentry<a/> under a <ahref="https://creativecommons.org/licenses/by/4.0/">Creative Commons</a> license.
+The lessons used in the workshop were developed by <a href="http://software-carpentry.org/">Software Carpentry<a/> under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons</a> license.
 
 <h2 id="schedule">Schedule</h2>
 <h3><Room 34-250</h3>
