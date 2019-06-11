@@ -168,6 +168,10 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 <hr/>
 
 
+<h2>Pre-workshop survey</h2>
+Please complete <a href="https://www.surveymonkey.com/r/rpythonpreworkshop">this survey</a> before attending the workshop
+
+
 <h2>Lessons</h2>
 The lessons used in the workshop were developed by <a href="http://software-carpentry.org/">Software Carpentry<a/> under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons</a> license.
 
