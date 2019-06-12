@@ -169,7 +169,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 
 
 <h2>Pre-workshop survey</h2>
-Please complete <a href="https://www.surveymonkey.com/r/rpythonpreworkshop">this survey</a> before attending the workshop
+Please complete <a href="https://www.surveymonkey.com/r/rpythonpreworkshop1">this survey</a> before attending the workshop
 
 
 <h2>Lessons</h2>
