@@ -171,6 +171,9 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 <h2>Pre-workshop survey</h2>
 Please complete <a href="https://www.surveymonkey.com/r/rpythonpreworkshop1">this survey</a> before attending the workshop
 
+<h2>Post-workshop survey</h2>
+At the end of the workshop, please fill out the <a href="https://www.surveymonkey.com/r/rpythonpostworkshop">post-workshop survey</a> to let us know how the training was for you and to help us improve future workshops.
+
 
 <h2>Lessons</h2>
 The lessons used in the workshop were developed by <a href="http://software-carpentry.org/">Software Carpentry<a/> under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons</a> license.
