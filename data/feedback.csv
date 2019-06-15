@@ -213,6 +213,7 @@ datetime,color,feedback
 2019-06-14 2:30,green,"Being able to go through the code line for line is helpful."
 2019-06-14 2:30,green,"Good tips on challenges."
 2019-06-14 2:30,green,"Everything is perfect!"
+2019-06-14 2:30,green,"Good challenge."
 2019-06-14 2:30,red,"Encountered a rare situation with the plot function; it's not returning anything after running; there's no error message as well."
 2019-06-14 2:30,red,"Scrolling too fast through some parts."
 2019-06-14 2:30,red,"Kind of rushed through some of the early parts."
@@ -225,3 +226,4 @@ datetime,color,feedback
 2019-06-14 2:30,red,"Some commands not clear, e.g. ax."
 2019-06-14 2:30,red,"Perhaps highlighting main concepts before launching into complex exercises."
 2019-06-14 2:30,red,"I feel like I still don't know some of the commands being used and exactly what they are used for."
+2019-06-14 2:30,red,"Didn't know how to convert series to dataframe."
