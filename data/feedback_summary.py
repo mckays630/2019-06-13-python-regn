@@ -21,7 +21,7 @@ try:
     nlp = spacy.load(model)
 except OSError:
     raise IOError(("Error: You're missing the spacy model. Install it with:\n"
-                   "    python3 -m spacy download " + model))
+                   "    python3 -m spacy download --user " + model))
 
 # For some reason my IPython interpreter keeps starting in the main git
 # directory, so search recursively to find an exact file match.
