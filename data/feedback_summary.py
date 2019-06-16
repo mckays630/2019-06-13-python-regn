@@ -28,11 +28,9 @@ except OSError:
 path = next(pathlib.Path().rglob("feedback.csv"))
 
 df = pd.read_csv(path)
-
-# Increase DataFrame wrap beyond 80 characters for interactive use.
-pd.get_option('display.width')
-pd.set_option('display.width', 221)
-
-doc = nlp(df.iloc[1, -1])
-for token in doc:
-    print(token.text, token.pos_, token.dep_)
+# Subset for testing.
+df = df.dropna().groupby(['datetime', 'color']).head(1)
+# Run model on strings.
+df['doc'] = df['feedback'].apply(lambda x: nlp(x))
+# Extract nouns.
+df['nouns'] = df['doc'].apply(lambda x: list(x.noun_chunks))
