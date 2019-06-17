@@ -32,5 +32,10 @@ df = pd.read_csv(path)
 df = df.dropna().groupby(['datetime', 'color']).head(1)
 # Run model on strings.
 df['doc'] = df['feedback'].apply(lambda x: nlp(x))
+
 # Extract nouns.
-df['nouns'] = df['doc'].apply(lambda x: list(x.noun_chunks))
+nouns_green = set()
+for _, doc in df[df['color'] == 'green']['doc'].iteritems():
+    for nouns in doc.noun_chunks:
+        for noun in nouns:
+            nouns_green.add(noun.text)
