@@ -1,6 +1,6 @@
 
 # Analysis of R workshop minute-card feedback
-<a href="../python_wordclouds_md/Python.md">Switch to the Python feedback</a>
+<a href="../python_wordclouds_md/python_wordclouds.md">Switch to the Python feedback</a>
 
 
 ```python
