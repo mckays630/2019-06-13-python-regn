@@ -198,9 +198,9 @@ for part in (nouns, verbs):
 
 ```
 
-![png](data/python_wordclouds_md/output_5_0.png)
+![png](/data/python_wordclouds_md/output_5_0.png)
 
 
 
-![png](data/python_wordclouds_md/output_5_1.png)
+![png](/data/python_wordclouds_md/output_5_1.png)
 
