@@ -1,6 +1,6 @@
 
 # Analysis of Python workshop minute-card feedback
-<a href="../r_wordclouds_md/r_wordclouds.md">Switch to the R feedback</a>
+<a href="data/r_wordclouds_md/r_wordclouds.md">Switch to the R feedback</a>
 
 
 ```python
@@ -202,5 +202,5 @@ for part in (nouns, verbs):
 
 
 
-![png](output_5_1.png)
+![png](data/python_wordclouds_md/output_5_1.png)
 
