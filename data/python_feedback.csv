@@ -1,0 +1,229 @@
+datetime,day,color,exclude,feedback
+6/13/19 12:00,day1_AM,green,,Good to learn that you can do loops in the command line; didn't know that before.
+6/13/19 12:00,day1_AM,green,,For-loops were explained very well.  Section was interesting.
+6/13/19 12:00,day1_AM,green,,Loop was very interesting.
+6/13/19 12:00,day1_AM,green,,The challenges.  Exercises are engaging.
+6/13/19 12:00,day1_AM,green,,Having helpers around is very important otherwise I'd definitely be lost.
+6/13/19 12:00,day1_AM,green,,Easy to follow.  Loved seeing commands on the screen.  Exercises were helpful.  Shorcuts were great to learn.
+6/13/19 12:00,day1_AM,green,,It was helpful to type out all the commands with the instructor to get a better idea of how the program works.
+6/13/19 12:00,day1_AM,green,,Great explanations of functionality of different operators.
+6/13/19 12:00,day1_AM,green,,Learning basic Linux commands in a formal setting was very helpful and will save time in future.
+6/13/19 12:00,day1_AM,green,,I liked how everyone could follow along.  Other people's questions helped me too.
+6/13/19 12:00,day1_AM,green,,Explained very clearly.  Got to try it on your own.
+6/13/19 12:00,day1_AM,green,,Step by step instruction.
+6/13/19 12:00,day1_AM,green,,I like the explanations of what each command is and what is is doing / what it means.
+6/13/19 12:00,day1_AM,green,,Interactive activities have been very helpful.  I especially feel like the pipe examples were very clear.
+6/13/19 12:00,day1_AM,green,,"Liked the teaching style using exercises, especially using files in different places to practice navigation."
+6/13/19 12:00,day1_AM,green,,Easy to follow.  Content is simple and straight forward.  I can actually learn useful things in workshop (sic).
+6/13/19 12:00,day1_AM,green,,I liked learning using the shell commands because I use the shell a lot and didn't know some shortcuts i.e. ctrl+a.
+6/13/19 12:00,day1_AM,green,,"Learning how to use unix to navigate and create files.  Using word count and sort, head, tail, functions to display data in a convenient way.  Liked the exercises to check I know what I am diong."
+6/13/19 12:00,day1_AM,green,,I liked following along and watching someone else do actual code.  Access to the lessons and problems are helpful.
+6/13/19 12:00,day1_AM,green,,The exercises are a very useful / effective way to learn the commands.
+6/13/19 12:00,day1_AM,green,,I am really enjoying this workshop as I never learned coding before so anything is better than nothing.  However from a learning perspective I really like the green and red post-it idea as I think that was pretty clever.
+6/13/19 12:00,day1_AM,green,,Great crash course on Unix command line.  It was a good revision for those who are familiar with the content.
+6/13/19 12:00,day1_AM,green,,Challenge problems.  Software Carpentry website with all notes.  Green and red post-it system.  Instructor walking through each line and what all symbols mean.
+6/13/19 12:00,day1_AM,green,,"Everything, including the pace, has been great so far."
+6/13/19 12:00,day1_AM,green,,Nice explanation of the material.  Good UI.
+6/13/19 12:00,day1_AM,green,,The tutorial was easy to follow.  I came in with no background in computer science but I was still able to follow along.  Thank you.
+6/13/19 12:00,day1_AM,green,,Jupyter notebook is awesome.  Shared Carpentries pad.  Examples from GitHub.  Going over basic commands.
+6/13/19 12:00,day1_AM,red,,"Some abbreviations I still don't get.  I know I an Google / check the manual but it would be nice if there was more reiteration of what the '$' is, or what '..' vs '.' does.  I don't get the real world application of some of this; to be fair though I know nothing about computer science."
+6/13/19 12:00,day1_AM,red,,Would like more background on what is the Shell vs Python.
+6/13/19 12:00,day1_AM,red,,I wish there was more information on what the Unix shell is used for in daily practice and how it could be applicable to me.
+6/13/19 12:00,day1_AM,red,,Can't see the bottom of the screen from the back of the room; harder to follow.
+6/13/19 12:00,day1_AM,red,,Would have liked more context behind what we were doing.
+6/13/19 12:00,day1_AM,red,,Many terms and computer talk used that may be foreign to others.  Also what is the significance of this stuff?
+6/13/19 12:00,day1_AM,red,,Not detailed enough when talking about loops; got lost figuring out what the loop is doing.
+6/13/19 12:00,day1_AM,red,,Don't understand '|' vs '>' vs '>>' very well; might need to go more in detail with that.
+6/13/19 12:00,day1_AM,red,,"Maybe do more exercises and quicker, or do them together."
+6/13/19 12:00,day1_AM,red,,I don't like how it was hard to see what was being input because it was at the bottom of the screen.
+6/13/19 12:00,day1_AM,red,,Clear more often.  Move window up; can't see what you are typing.  More context: what is a directory / are these files actually on my computer?  Alsi is this python another program?
+6/13/19 12:00,day1_AM,red,,echo doesn't need '' even when space is involved.
+6/13/19 12:00,day1_AM,red,,Maybe give some more time for explanations.
+6/13/19 12:00,day1_AM,red,,We went a bit slow at times on topics that were relatively easy to understand (basic commands).
+6/13/19 12:00,day1_AM,red,,The most basic things can be gone through faster or skipped.
+6/13/19 12:00,day1_AM,red,,Sometimes it went too fast and got a little confusing.
+6/13/19 12:00,day1_AM,red,,Some commands glossed over too quicky and hard to follow.
+6/13/19 12:00,day1_AM,red,,"As someone with no coding experience, some of it went a little fast, and I could have used more actuall recall."
+6/13/19 12:00,day1_AM,red,,Really still unsure about the remove functions and accidentally deleting files / directories.  Go slower and more examples.
+6/13/19 12:00,day1_AM,red,,The pacing was overall slow; could spend less time on the exercises.
+6/13/19 12:00,day1_AM,red,,I think having a 'cheat sheet' with the basic commands would have made the beginning go faster.  Doing larger problems / utilizing more commands at once would have better facilitated my understanding of how to use them.  Would have liked to learn how to write scripts using notepad.
+6/13/19 12:00,day1_AM,red,,Pace was a bit too slow in the beginning and rushed at the end.
+6/13/19 12:00,day1_AM,red,,Want to cover everything.
+6/13/19 12:00,day1_AM,red,,It's moving pretty quickly but I've been okay so far.  Maybe incorporate more real world applications of what this could be used for.
+6/13/19 2:30,day1_PM,green,,I like the Socrative format.
+6/13/19 2:30,day1_PM,green,,Very thorough and a good basic explanation of how computers think.
+6/13/19 2:30,day1_PM,green,,Good use of Socrative to monitor progress of the group.
+6/13/19 2:30,day1_PM,green,,Good walkthrough.
+6/13/19 2:30,day1_PM,green,,Great introductory lesson for a beginner.  Interesting quiz to help learning.
+6/13/19 2:30,day1_PM,green,,I like the Socrative questions as checkpoints.  Taking notes in the file with the examples so we can refer back.
+6/13/19 2:30,day1_PM,green,,Went at the right pace.  Very clear and easy to follow.
+6/13/19 2:30,day1_PM,green,,I enjoy the use of the questions to gauge my understanding.
+6/13/19 2:30,day1_PM,green,,"I liked the questions, and the explanations of the questions afterwards."
+6/13/19 2:30,day1_PM,green,,Effective demonstrations.  Using the python interface.
+6/13/19 2:30,day1_PM,green,,Quiz is a great format to check that things are making sense.  Good level of difficulty.
+6/13/19 2:30,day1_PM,green,,Socrative is helpful and engaging.
+6/13/19 2:30,day1_PM,green,,Good overview of the basics in python including types of variables.
+6/13/19 2:30,day1_PM,green,,Good explanation of basics.
+6/13/19 2:30,day1_PM,green,,Great session; easy to follow along.  I like the interactive questions.
+6/13/19 2:30,day1_PM,green,,I liked using Jupyter.  Easy to follow along.  Socrative is awesome!
+6/13/19 2:30,day1_PM,green,,Good pace.  Socrative is nice.
+6/13/19 2:30,day1_PM,green,,Interesting tutorial.  Doing the exercises on Socrative was fun.
+6/13/19 2:30,day1_PM,green,,Easy to follow.  I like the quizzes.
+6/13/19 2:30,day1_PM,green,,Socrative is good and interactive.
+6/13/19 2:30,day1_PM,green,,The lessons were very thorough!  We got a lot of hands on practice.
+6/13/19 2:30,day1_PM,green,,Easy to follow.
+6/13/19 2:30,day1_PM,green,,Good job.
+6/13/19 2:30,day1_PM,green,,Easy to follow along.
+6/13/19 2:30,day1_PM,green,,Very helpful to get experience coding in a notepad.
+6/13/19 2:30,day1_PM,red,,"Little confused about the last 2 questions regarding conversions: flat integers, etc."
+6/13/19 2:30,day1_PM,red,,The significance.
+6/13/19 2:30,day1_PM,red,,I got lost on some of the shortcuts.
+6/13/19 2:30,day1_PM,red,,"This is all pretty cool, but I have no clue about how to apply it to a data set or to even create a data set I could use these commands with."
+6/13/19 2:30,day1_PM,red,,Pace could be slightly faster but I understand it's the nature of what we're learning before it can pick up.
+6/13/19 2:30,day1_PM,red,,Some Socrative questions got repetitive.
+6/13/19 2:30,day1_PM,red,,The tutorial can be a little harder.
+6/13/19 2:30,day1_PM,red,,Going a bit too slow on the basic material like making variables and printing to the screen.
+6/13/19 2:30,day1_PM,red,,NA
+6/13/19 2:30,day1_PM,red,,"Kind of slow for people who know basic python, but I understand why."
+6/13/19 2:30,day1_PM,red,,Pace is a little slow.  More challenging examples would help hold interest.
+6/13/19 2:30,day1_PM,red,,A little slow; would like tasks to complete.
+6/13/19 2:30,day1_PM,red,,Maybe can present 2 versions of problems: easy vs hard?  It feels like we're moving kind of slow.
+6/13/19 2:30,day1_PM,red,,Not very energetic
+6/13/19 2:30,day1_PM,red,,Little confusion with string type with a number; for example '3.4'; I understand the basic idea but need time to get used to that.
+6/13/19 2:30,day1_PM,red,,Mostly good.  Maybe a bit more interactive; e.g. less through Socrative.
+6/13/19 2:30,day1_PM,red,,It was beginning to drag a little and wasn't moving as fast with the types of variables.
+6/13/19 2:30,day1_PM,red,,I would like to hear more about when and why python is important to know.
+6/13/19 2:30,day1_PM,red,,Repetitive.
+6/13/19 2:30,day1_PM,red,,Better Socrative explanations.
+6/13/19 4:30,day1_PM,green,,Helpful basic functions.  Questions made me think.
+6/13/19 4:30,day1_PM,green,,Instruction.
+6/13/19 4:30,day1_PM,green,,Good work.
+6/13/19 4:30,day1_PM,green,,Good covering of libraries.
+6/13/19 4:30,day1_PM,green,,Section with data was interesting.  I liked having something to practice the commands on.
+6/13/19 4:30,day1_PM,green,,I enjoyed the afternoon session.  The way python uses to view data is very useful.
+6/13/19 4:30,day1_PM,green,,I like the step-by-step process and teaching.
+6/13/19 4:30,day1_PM,green,,The more challenging questions related to data sets were the most useful tools for me today.
+6/13/19 4:30,day1_PM,green,,Headings for different sections were helpful.  Explaining challenges.
+6/13/19 4:30,day1_PM,green,,Good to start working with actual data sets.
+6/13/19 4:30,day1_PM,green,,Helpful to solve the more difficult challenges in full on screen.
+6/13/19 4:30,day1_PM,green,,I thought the pace was good.
+6/13/19 4:30,day1_PM,green,,All good!
+6/13/19 4:30,day1_PM,green,,Jupyter.  DataFrames.
+6/13/19 4:30,day1_PM,green,,Socrative!  And summaries of functions for our notes with DataFrames.
+6/13/19 4:30,day1_PM,green,,Socrative is helpful.
+6/13/19 4:30,day1_PM,green,,I liked being able to play with the data sets and answer questions.
+6/13/19 4:30,day1_PM,green,,Pandas is helpful.
+6/13/19 4:30,day1_PM,green,,Good job of explaining the code and syntax.
+6/13/19 4:30,day1_PM,green,,I understood everything during the afternoon session.  There's nothing I can think of improving.  Thank you very much!
+6/13/19 4:30,day1_PM,red,,It is sometimes difficult to follow the lingo.
+6/13/19 4:30,day1_PM,red,,Any other useful libraries?
+6/13/19 4:30,day1_PM,red,,More Socrative.
+6/13/19 4:30,day1_PM,red,,Maybe less time for us to work on examples; use extra time to go over if people are stuck.
+6/13/19 4:30,day1_PM,red,,The answers to live quizzes could be explained more.
+6/13/19 4:30,day1_PM,red,,"Maybe a little more preparation before the workshop, like fixing the wifi issue if possible before we start."
+6/13/19 4:30,day1_PM,red,,Pace was a little slow.
+6/13/19 4:30,day1_PM,red,,More simpler explanations for 'reading tabular data into DataFrames'.  Would like to see more libraries available.
+6/13/19 4:30,day1_PM,red,,Nothing to complain about!
+6/13/19 4:30,day1_PM,red,,Slow.
+6/13/19 4:30,day1_PM,red,,Low energy.
+6/13/19 4:30,day1_PM,red,,Took too long waiting for people to answer questions.  Maybe throw in some cool functions.
+6/14/19 10:45,day2_AM,green,,The challenges are the most helpful because I have a chance to try how to do things myself.
+6/14/19 10:45,day2_AM,green,,I liked the graphs and data table navigation.  I would also like to learn about how to store data in arrays.
+6/14/19 10:45,day2_AM,green,,Good pace.
+6/14/19 10:45,day2_AM,green,,Interesting and fun...
+6/14/19 10:45,day2_AM,green,,Pace was really good this morning.
+6/14/19 10:45,day2_AM,green,,Good explanation.
+6/14/19 10:45,day2_AM,green,,Good content.  Good help.
+6/14/19 10:45,day2_AM,green,,Challenge explanations.
+6/14/19 10:45,day2_AM,green,,Speed and problems were good.
+6/14/19 10:45,day2_AM,green,,Challenges are helpful level of difficulty.
+6/14/19 10:45,day2_AM,green,,Loved the pace.  Really liked seeing the different types of graphs.  Love Pandas!!  Love Jupyter; so helpful!
+6/14/19 10:45,day2_AM,green,,I liked having time to do the challenges.
+6/14/19 10:45,day2_AM,green,,Focusing on the graphs for that whole time was helpful.
+6/14/19 10:45,day2_AM,green,,Good variety of plot types.
+6/14/19 10:45,day2_AM,green,,I liked the quicker pace.
+6/14/19 10:45,day2_AM,green,,Good pace.  Good questions.
+6/14/19 10:45,day2_AM,green,,Good.
+6/14/19 10:45,day2_AM,green,,Very helpful lesson for plotting.
+6/14/19 10:45,day2_AM,green,,More interesting information today.  Good speed.
+6/14/19 10:45,day2_AM,green,,I learned plotting skills from this lesson.
+6/14/19 10:45,day2_AM,green,,Great speed going through plotting and Pandas DataFrames.  Good detail in data management and analysis.
+6/14/19 10:45,day2_AM,green,,Good pace.  Good level of difficulty.
+6/14/19 10:45,day2_AM,green,,Easy to follow along.
+6/14/19 10:45,day2_AM,red,,If you could show the code a little longer; you move up before I finish typing.
+6/14/19 10:45,day2_AM,red,,Wish there was more explanation of how python differs from other languages and what the benefits of python are.
+6/14/19 10:45,day2_AM,red,,Could go a little slower and probably do a litle revision.
+6/14/19 10:45,day2_AM,red,,A little fast.  Challenge wording.
+6/14/19 10:45,day2_AM,red,,Save figure didn't work: no PDF.  Dustin fixed that.
+6/14/19 10:45,day2_AM,red,,Speed.
+6/14/19 10:45,day2_AM,red,,Would have liked to take more time on the plotting section.
+6/14/19 10:45,day2_AM,red,,"Moving kind of quickly, might be better to make screen smaller to see previous work."
+6/14/19 10:45,day2_AM,red,,The last thing we did really fast and I'm not sure how I could recreate something like that.
+6/14/19 10:45,day2_AM,red,,Confused on last part about min() plot.
+6/14/19 10:45,day2_AM,red,,More explanation.
+6/14/19 10:45,day2_AM,red,,Socrative was easier to understand.
+6/14/19 10:45,day2_AM,red,,Explain syntax a little more.
+6/14/19 10:45,day2_AM,red,,Interested in what can be done in python that Excel can't do.
+6/14/19 10:45,day2_AM,red,,I did not like how we didn't do any mask examples.
+6/14/19 10:45,day2_AM,red,,Ask if everyone is with you more.
+6/14/19 10:45,day2_AM,red,,Any other libraries useful?
+6/14/19 10:45,day2_AM,red,,It would be helpful if we made a cheat sheet and condensed what each command does.
+6/14/19 12:00,day2_AM,green,,I like the challenges
+6/14/19 12:00,day2_AM,green,,This section was well taught.  Good pacing.
+6/14/19 12:00,day2_AM,green,,Good exercises for working through for-loops!
+6/14/19 12:00,day2_AM,green,,Good challenges.
+6/14/19 12:00,day2_AM,green,,Good exercises.
+6/14/19 12:00,day2_AM,green,,It was good!  Examples were helpful.
+6/14/19 12:00,day2_AM,green,,Good session.
+6/14/19 12:00,day2_AM,green,,Good pace.
+6/14/19 12:00,day2_AM,green,,Loops are really neat!  I liked learning about strings with loops; I have never really seen that.
+6/14/19 12:00,day2_AM,green,,I like figuring the loops out on our own and problem solving.
+6/14/19 12:00,day2_AM,green,,The examples we did were helpful.
+6/14/19 12:00,day2_AM,green,,I like that it wasn't a lecture and we were actively learning.  Thank you!
+6/14/19 12:00,day2_AM,green,,Clear instruction.  Interesting challenge problems to solve.
+6/14/19 12:00,day2_AM,green,,For-loop section was interesting.  I liked the more involved challenges.
+6/14/19 12:00,day2_AM,green,,Good session.
+6/14/19 12:00,day2_AM,green,,These examples were formatted well; it was easy to copy and paste and make changes based on understanding of concepts.
+6/14/19 12:00,day2_AM,red,x,NA
+6/14/19 12:00,day2_AM,red,x,NA
+6/14/19 12:00,day2_AM,red,,Going over nested for-loops?
+6/14/19 12:00,day2_AM,red,x,Nothing!
+6/14/19 12:00,day2_AM,red,x,NA
+6/14/19 12:00,day2_AM,red,,Pace was very slow during the for-loop exercises.  I would have liked to do more for-loop examples.  I disliked the for-loop example that joined the strings because it makes people get stuck in loops instead of finding alternatives.
+6/14/19 12:00,day2_AM,red,,Challenges could be a little more difficult.  Maybe incorporate some extra challenges.
+6/14/19 12:00,day2_AM,red,,I am still a little unsure about loops.
+6/14/19 12:00,day2_AM,red,,Speed.
+6/14/19 12:00,day2_AM,red,,More in-depth challenges.
+6/14/19 12:00,day2_AM,red,,More exercises that are open ended would be great.
+6/14/19 2:30,day2_PM,green,,Challenging and interesting.  A lot of time to work.
+6/14/19 2:30,day2_PM,green,,Great section!
+6/14/19 2:30,day2_PM,green,,Challenging questions.
+6/14/19 2:30,day2_PM,green,,Extra challenging question has been the best part of the training.  More incorporation of that would be nice.
+6/14/19 2:30,day2_PM,green,,I thought this was the best example and make me thing far more than the others.
+6/14/19 2:30,day2_PM,green,,Interesting and useful lesson about looping and plotting for multiple datasets.  Challenge problems are harder but very interesting.
+6/14/19 2:30,day2_PM,green,,I like the interactive activities to try on our own.
+6/14/19 2:30,day2_PM,green,,Really liked the more complex challenges!  Being given a prompt and told to 'solve it'.  Like the new notebook setup.
+6/14/19 2:30,day2_PM,green,,Good explanation.
+6/14/19 2:30,day2_PM,green,,I like having the time to try and figure it out on my own.
+6/14/19 2:30,day2_PM,green,,I like having the Jupyter notebook with notes and then lines to do examples so I can look back and have it all condensed.  Thank you!!
+6/14/19 2:30,day2_PM,green,,Yes to give (sic) the more challenging problem.
+6/14/19 2:30,day2_PM,green,,Enjoyed the more challenging problem.
+6/14/19 2:30,day2_PM,green,,Loved working through the examples to input and analyzed data; tested how much I learned and integrated multiple aspects of what was taught.  Fun challenge.
+6/14/19 2:30,day2_PM,green,,Great introduction to loops.
+6/14/19 2:30,day2_PM,green,,Being able to go through the code line for line is helpful.
+6/14/19 2:30,day2_PM,green,,Good tips on challenges.
+6/14/19 2:30,day2_PM,green,,Everything is perfect!
+6/14/19 2:30,day2_PM,green,,Good challenge.
+6/14/19 2:30,day2_PM,red,,Encountered a rare situation with the plot function; it's not returning anything after running; there's no error message as well.
+6/14/19 2:30,day2_PM,red,,Scrolling too fast through some parts.
+6/14/19 2:30,day2_PM,red,,Kind of rushed through some of the early parts.
+6/14/19 2:30,day2_PM,red,,Cheat sheet with commands and syntax.
+6/14/19 2:30,day2_PM,red,,"Why do you need to use DataFrame.mean.plot?  What are the advantages vs plt.plot(x, y)?"
+6/14/19 2:30,day2_PM,red,,Scrolling up and down was distracting.
+6/14/19 2:30,day2_PM,red,,Syntax was confusing.
+6/14/19 2:30,day2_PM,red,,"For more challenging problems, it would be helpful to have more time and maybe with hints along the way."
+6/14/19 2:30,day2_PM,red,,Could use a bit more explanation on some of the plotting functions.
+6/14/19 2:30,day2_PM,red,,"Some commands not clear, e.g. ax."
+6/14/19 2:30,day2_PM,red,,Perhaps highlighting main concepts before launching into complex exercises.
+6/14/19 2:30,day2_PM,red,,I feel like I still don't know some of the commands being used and exactly what they are used for.
+6/14/19 2:30,day2_PM,red,,Didn't know how to convert series to dataframe.

@@ -1,0 +1,122 @@
+datetime,day,color,exclude,feedback
+2019-06-13 AM,day1_AM,green,,The online portal for documentation is straightforward.  Speed of course was good.  Organized curriculum.
+2019-06-13 AM,day1_AM,green,,Good examples.  Helpful resources and tools at our disposal.
+2019-06-13 AM,day1_AM,green,,Good overview and examples of Unix shell commands.
+2019-06-13 AM,day1_AM,green,,Exposure to a variety of resources for help with Unix.
+2019-06-13 AM,day1_AM,green,,It's easy to follow; I learned some useful syntax.
+2019-06-13 AM,day1_AM,green,,I liked that we walked through the shell commands slowly and had examples for everything with excellent documentation.
+2019-06-13 AM,day1_AM,green,,Explanation of what each command does.
+2019-06-13 AM,day1_AM,green,,Material on web page is good.  Interesting and easy to follow.
+2019-06-13 AM,day1_AM,green,,Good explanations.
+2019-06-13 AM,day1_AM,green,,Good tutorial online.
+2019-06-13 AM,day1_AM,green,,Very informative.
+2019-06-13 AM,day1_AM,green,,I like the use of the sticky notes to indicate progress.
+2019-06-13 AM,day1_AM,green,,Easy to follow and understand.  Typing along was very helpful.
+2019-06-13 AM,day1_AM,green,,Instructor explains things well and has a good understanding of what he is teaching.
+2019-06-13 AM,day1_AM,green,,Clear instructions and directions.
+2019-06-13 AM,day1_AM,green,,Clear and I was able to follow easily.  Liked the examples that went along with the verbal explanations of everything.
+2019-06-13 AM,day1_AM,green,,"Very coherent, step-by-step instructions."
+2019-06-13 AM,day1_AM,green,,Structured teaching.  Good to learn new stuff in programming.
+2019-06-13 AM,day1_AM,green,,The online page is straightforward.
+2019-06-13 AM,day1_AM,red,,Would have preferred to spend less time going over the more obscure shell functions.  Disorganized start.
+2019-06-13 AM,day1_AM,red,,Should use exercises more.
+2019-06-13 AM,day1_AM,red,,"Spend less time on Unix shell; if you must, then maybe spend more time on loops, pipes and filters."
+2019-06-13 AM,day1_AM,red,,Using real files would have been helpful; I was a bit out of touch with the hypothetical scenarios.
+2019-06-13 AM,day1_AM,red,,Pace was a little bit slow.  Took too long on directories.
+2019-06-13 AM,day1_AM,red,,Not engaging at all.  Not loud enough.  Too fast; hard to follow.  Bad setup.  No introduction given.
+2019-06-13 AM,day1_AM,red,,"Inconsistent speed: sometimes was a little fast but other times we spent a lot of time on one thing, but overall speed was good."
+2019-06-13 AM,day1_AM,red,,The pace could be faster.
+2019-06-13 AM,day1_AM,red,,Too much time spend on ls and cd.
+2019-06-13 AM,day1_AM,red,,Less time on Unix; more time on R.
+2019-06-13 AM,day1_AM,red,,Perhaps in the beginning there was a lot of repetition; might have gone a bit slow.
+2019-06-13 AM,day1_AM,red,,Instructor and room should have been ready.  Instructor often said he didn't know certain things.  There was confusion about which terminal command to use.  Things were skipped.
+2019-06-13 AM,day1_AM,red,,The class moves a little slow.
+2019-06-13 AM,day1_AM,red,,Could have been more interactive.
+2019-06-13 AM,day1_AM,red,,Pacing: hard parts were too fast and easy parts were too slow.
+2019-06-13 AM,day1_AM,red,,The first half hour actually getting into RStudio was confusing since the instructor did not know to use the online trial terminal.
+2019-06-13 AM,day1_AM,red,,Fast pace.  Clears window too fast to back track.
+2019-06-13 AM,day1_AM,red,,"Goes a little too fast, especially for people who don't know coding at all."
+2019-06-13 AM,day1_AM,red,,Pace seems a little slow.
+2019-06-13 AM,day1_AM,red,,Fast pace.  I wish we could have had more time to cover more material!
+2019-06-13 PM,day1_PM,green,,Good pacing and coverage of the material.
+2019-06-13 PM,day1_PM,green,,Very informative.
+2019-06-13 PM,day1_PM,green,,Coffee breaks.
+2019-06-13 PM,day1_PM,green,,Good pace.
+2019-06-13 PM,day1_PM,green,,Very clear.  Detailed on explianing each step.
+2019-06-13 PM,day1_PM,green,,Very helpful class.
+2019-06-13 PM,day1_PM,green,,Good explanations.
+2019-06-13 PM,day1_PM,green,,Systematic teaching.
+2019-06-13 PM,day1_PM,green,,Easy to follow and understand.
+2019-06-13 PM,day1_PM,green,,Very informative.  Definitely taught me the fundamentals well.
+2019-06-13 PM,day1_PM,green,,Good pace.  Clear explanation.  Like the structure.
+2019-06-13 PM,day1_PM,green,,Easy to follow.
+2019-06-13 PM,day1_PM,green,,I liked the challenges.
+2019-06-13 PM,day1_PM,green,,Liked learning about data types and classes.
+2019-06-13 PM,day1_PM,green,,Structured.
+2019-06-13 PM,day1_PM,green,,Syntax was explained really well.  Speed was good.  Instructor was well informed.
+2019-06-13 PM,day1_PM,red,,A little repetitive.  The pace could be faster.
+2019-06-13 PM,day1_PM,red,,"No real complaints; maybe a tad repetitive, but some people really need that for the information to truly sink in."
+2019-06-13 PM,day1_PM,red,,It was hard for a beginner to follow along.
+2019-06-13 PM,day1_PM,red,,Maybe summary at the end of each section?
+2019-06-13 PM,day1_PM,red,,I feel like I didn't learn a lot yet.
+2019-06-13 PM,day1_PM,red,,Speak up; the back can't hear.
+2019-06-13 PM,day1_PM,red,,Sometimes pace was too fast.  Sometimes couldn't see typing in the command line.
+2019-06-13 PM,day1_PM,red,,I got a little confused on the section about dataframes.  I feel like I missed some essential context that I only understood at the end.
+2019-06-13 PM,day1_PM,red,,"Good pace, however, give more time in between steps to allow people who have never coded to get through the step as well."
+2019-06-13 PM,day1_PM,red,,Wish we were told ways of applying the knowledge we learned to increase interest in the subject.
+2019-06-13 PM,day1_PM,red,,Nothing negative to say.
+2019-06-13 PM,day1_PM,red,,Can teach a little bit slower for beginners.
+2019-06-13 PM,day1_PM,red,,A little bit faster.
+2019-06-13 PM,day1_PM,red,,Fast paced.
+2019-06-13 PM,day1_PM,red,,Went too fast when typing on screen.
+2019-06-13 PM,day1_PM,red,,Was sometimes hard to keep up with code on screen since it was too zoomed in the text disappeared very quickly.
+2019-06-14 AM,day2_AM,green,,Pace was good.  Well explained.
+2019-06-14 AM,day2_AM,green,,Good pace.  Clear explanations.  Really enjoyed 'visualizing the gapminder data'.
+2019-06-14 AM,day2_AM,green,,Explanations were clear and examples were very helpful.  Liked how you showed multiple ways and situations.
+2019-06-14 AM,day2_AM,green,,Pace is better today than yesterday :)
+2019-06-14 AM,day2_AM,green,,Playing with plotting was fun.
+2019-06-14 AM,day2_AM,green,,Good pace.  Good challenges.
+2019-06-14 AM,day2_AM,green,,Good pace.  Easy to follow.  Very informative.
+2019-06-14 AM,day2_AM,green,,Better speed.  Good engagement.
+2019-06-14 AM,day2_AM,green,,Fun customisable examples.
+2019-06-14 AM,day2_AM,green,,I believe the pace was perfect.  Information was conveyed well.
+2019-06-14 AM,day2_AM,red,x,No complaints.
+2019-06-14 AM,day2_AM,red,x,No problems
+2019-06-14 AM,day2_AM,red,,Ravi: not mmuch clarity about when everyone has reached a consensus.  I fell behind building graphs and I lost track right before lunch.  Samir: at this point I know how to create basic functions and asking to make a celcius to kelvin functionv felt too slow; same with vector and matrix math.
+2019-06-14 AM,day2_AM,red,,Make sure we can see your code as much as possible; don't scroll too fast.
+2019-06-14 AM,day2_AM,red,,"I liked when we were given time to experiment with the graph features, but I wish we had more time to experiment with everything else."
+2019-06-14 AM,day2_AM,red,,Wish yesterday was a bit faster and today was slower.
+2019-06-14 AM,day2_AM,red,,During plotting maybe going a little slower for syntax would have been better.
+2019-06-14 AM,day2_AM,red,,I wish we could have done more with visualizing data.
+2019-06-14 AM,day2_AM,red,,Switched between code and graphs too quickly to finish copying and understanding code.
+2019-06-14 PM,day2_PM,green,,Very clear instructions.  Perfect pace.  Easy to understand.
+2019-06-14 PM,day2_PM,green,,Explanations that went along with every example was very helpful.  Easy to follow and understand.
+2019-06-14 PM,day2_PM,green,,Good examples.  Well structured.
+2019-06-14 PM,day2_PM,green,,Much easier to hear!
+2019-06-14 PM,day2_PM,green,,"External resource introduction for R was good.  Visualization of data is good, but was a little repetitive of the morning."
+2019-06-14 PM,day2_PM,green,,The pace is so much better than yesterday.
+2019-06-14 PM,day2_PM,green,,Good explanations and timing!
+2019-06-14 PM,day2_PM,green,,Good examples with real data that makes practical applications of code more clear.
+2019-06-14 PM,day2_PM,green,,Really excellent way of learning basics and building on knowledge learned yesterday.  Thank you!
+2019-06-14 PM,day2_PM,green,,Today was a good pace.  Very informative.
+2019-06-14 PM,day2_PM,green,,Good flow.  Useful tips.
+2019-06-14 PM,day2_PM,green,,Liked challenges.
+2019-06-14 PM,day2_PM,green,,Good amount of content.  Liked the introduction to ggplot and dplyr.
+2019-06-14 PM,day2_PM,green,,dplyr section was very helpful.  Would be better to spend more time on tidyr.
+2019-06-14 PM,day2_PM,green,,I like the explanation for language and abbreviations this afternoon.
+2019-06-14 PM,day2_PM,green,,"Interesting, relevant content."
+2019-06-14 PM,day2_PM,green,,"Taught the information in a concise, quick manner."
+2019-06-14 PM,day2_PM,green,,Informative and easy to follow and understand.
+2019-06-14 PM,day2_PM,red,,I wish we had more time to cover the stuff more in depth.
+2019-06-14 PM,day2_PM,red,,Perhaps give a little time for us to try each challenge by ourselves if time permits.
+2019-06-14 PM,day2_PM,red,,Kept typing then moving the screen around too quickly before we could see what was written.
+2019-06-14 PM,day2_PM,red,,Need to generate more interest in subject or people will get bored.
+2019-06-14 PM,day2_PM,red,,Not engaging enough for the challenges.
+2019-06-14 PM,day2_PM,red,,Skimmed too quickly through subsetting data.
+2019-06-14 PM,day2_PM,red,,Sessions moved a little slow and could have focused more on a broader overview with less details.
+2019-06-14 PM,day2_PM,red,,There was too much material to fit in the time.
+2019-06-14 PM,day2_PM,red,,It would be helpful to go over a real-life example with a clear objective.
+2019-06-14 PM,day2_PM,red,,Not engaging enough; read the audience.
+2019-06-14 PM,day2_PM,red,,Lecturers could have higher energy to stimulate more interest.
+2019-06-14 PM,day2_PM,red,,I feel like some concepts like dplyr didn't have enough context.
+2019-06-14 PM,day2_PM,red,,Pace was a bit slow but not that bad.
