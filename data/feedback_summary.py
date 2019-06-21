@@ -16,7 +16,8 @@ import pathlib
 import spacy
 import pandas as pd
 
-model = "en_core_web_sm"
+# To use similarity scores, we can't use the small model.
+model = "en_core_web_md"
 try:
     nlp = spacy.load(model)
 except OSError:
@@ -25,17 +26,32 @@ except OSError:
 
 # For some reason my IPython interpreter keeps starting in the main git
 # directory, so search recursively to find an exact file match.
-path = next(pathlib.Path().rglob("feedback.csv"))
-
+path = next(pathlib.Path().rglob("feedback.csv")) 
 df = pd.read_csv(path)
-# Subset for testing.
-df = df.dropna().groupby(['datetime', 'color']).head(1)
+df = df.dropna()
 # Run model on strings.
 df['doc'] = df['feedback'].apply(lambda x: nlp(x))
 
-# Extract nouns.
-nouns_green = set()
-for _, doc in df[df['color'] == 'green']['doc'].iteritems():
-    for nouns in doc.noun_chunks:
-        for noun in nouns:
-            nouns_green.add(noun.text)
+# Split up sentences.
+col_sents = df['doc'].apply(lambda x: x.sents).apply(pd.Series).stack().apply(lambda x: x.as_doc())
+col_sents.name = 'doc'
+col_sents.index = col_sents.index.droplevel(-1)
+df = df.iloc[:, :-2].join(col_sents)
+df.reset_index(inplace = True)
+
+# Pace is always talked about at workshops, so separate it from other feedback.
+patterns = {
+    'PACE_PATTERN': [{'LEMMA': 'pace'}],
+    'FAST_PATTERN': [{'LEMMA': 'fast'}],
+    'SLOW_PATTERN': [{'LEMMA': 'slow'}],
+}
+pace_matcher = spacy.matcher.Matcher(nlp.vocab)
+for name, pattern in patterns.items():
+    pace_matcher.add(name, None, pattern)
+
+def is_related_to_pace(doc):
+    matches = pace_matcher(doc)
+    return len(matches) > 0
+    
+df_pace = df[df['doc'].apply(is_related_to_pace)]
+df = df[~df.index.isin(df_pace.index)]
